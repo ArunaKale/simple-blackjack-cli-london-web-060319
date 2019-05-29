@@ -21,8 +21,8 @@ end
 
 def get_user_input
   # code #get_user_input here
-  = gets.chomp 
-end
+  answer = gets.chomp
+  answer
 
 def end_game
   # code #end_game here
